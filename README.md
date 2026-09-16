@@ -1,26 +1,34 @@
 <div align="center">
 
-# Olá, eu sou o Luis Albaneze 👋
+# Luis Albaneze
 
-### QA • Automação de Testes • RPA • Dados
+### QA | Test Automation | RPA | Data Validation
 
-Atuo com qualidade de software, automação e validação de dados, trabalhando com aplicações web, processos legados e integrações entre sistemas.
+Trabalho com qualidade de software e automação, com foco em testes funcionais, automação de processos e validação de dados entre sistemas.
+
+No dia a dia, uso principalmente **Cypress, UiPath, SQL Server, Databricks e Azure DevOps**.
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre
 
-- 🔎 **QA / Testes:** funcionais, exploratórios, regressão e cenários BDD
-- 🤖 **Automação:** UiPath, Cypress e automações de processos
-- 🗄️ **Dados:** SQL Server, Databricks e validação/comparação de dados
-- 🧰 **Ferramentas:** Azure DevOps, Git, Postman, VS Code e GitHub
-- 📚 Atualmente aprofundando conhecimentos em automação, desenvolvimento e arquitetura de software
+Minha experiência é voltada para QA e automação, atuando tanto em aplicações web quanto em processos legados e integrações de dados.
+
+Tenho trabalhado bastante com:
+
+- testes funcionais, exploratórios, regressão e BDD;
+- automação web com Cypress;
+- automação de processos com UiPath;
+- consultas e validações em SQL Server e Databricks;
+- documentação de processos, cenários de teste e acompanhamento de entregas no Azure DevOps.
+
+Também uso projetos pessoais para testar ideias e aprender coisas novas fora do trabalho.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -37,29 +45,30 @@ Atuo com qualidade de software, automação e validação de dados, trabalhando 
 
 ---
 
-## 🚀 Áreas de interesse
+## Projetos pessoais
 
-<div align="center">
+### Galinha-Guardia
 
-`Quality Assurance` • `Test Automation` • `RPA` • `Cypress` • `UiPath` • `SQL` • `Data Validation` • `CI/CD`
+Um jogo simples que estou desenvolvendo para praticar lógica, desenvolvimento e uso de ferramentas de IA no processo de criação.
 
-</div>
+A ideia é uma galinha resgatar os animais da fazenda enquanto foge de um lobo que vai ficando mais esperto ao longo do jogo.
+
+[Ver repositório](https://github.com/lfalbaneze/Galinha-Guardia)
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/luis-albaneze/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:luis.albaneze@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-<a href="https://www.instagram.com/ifalbaneze/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <p align="center">
   <picture>
