@@ -63,6 +63,7 @@ A ideia é uma galinha resgatar os animais da fazenda enquanto foge de um lobo q
 
 <a href="https://www.linkedin.com/in/luis-albaneze/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:luis.albaneze@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+<a href="https://www.instagram.com/ifalbaneze/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
