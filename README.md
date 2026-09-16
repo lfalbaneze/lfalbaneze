@@ -1,27 +1,70 @@
-## Bem-vindo(a) ao perfil do lfalbaneze 😁
+<div align="center">
 
- <div>
-   <a href="https://github.com/lfalbaneze">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfalbaneze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfalbaneze&layout=compact&langs_count=6&theme=tokyonight"/>
+# Olá, eu sou o Luis Albaneze 👋
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-   
-<div> 
-  
-  <a href="https://instagram.com/lfalbaneze" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:luis.albaneze@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/luis-albaneze" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- 
-![Snake animation](https://github.com/seu-usuário-aqui/lfalbaneze/blob/output/github-contribution-grid-snake.svg)
+### QA • Automação de Testes • RPA • Dados
 
+Atuo com qualidade de software, automação e validação de dados, trabalhando com aplicações web, processos legados e integrações entre sistemas.
 
 </div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🔎 **QA / Testes:** funcionais, exploratórios, regressão e cenários BDD
+- 🤖 **Automação:** UiPath, Cypress e automações de processos
+- 🗄️ **Dados:** SQL Server, Databricks e validação/comparação de dados
+- 🧰 **Ferramentas:** Azure DevOps, Git, Postman, VS Code e GitHub
+- 📚 Atualmente aprofundando conhecimentos em automação, desenvolvimento e arquitetura de software
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,cypress,git,github,vscode,postman,azure&perline=6" alt="Tecnologias" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+
+</div>
+
+---
+
+## 🚀 Áreas de interesse
+
+<div align="center">
+
+`Quality Assurance` • `Test Automation` • `RPA` • `Cypress` • `UiPath` • `SQL` • `Data Validation` • `CI/CD`
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luis-albaneze" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:luis.albaneze@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://instagram.com/lfalbaneze" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfalbaneze/lfalbaneze/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfalbaneze/lfalbaneze/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lfalbaneze/lfalbaneze/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
